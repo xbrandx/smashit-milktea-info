@@ -34,7 +34,7 @@ If you require support or encounter issues, please use the following channels:
 ### Contact
 
 - **Email:**  
-  [your-support-email@example.com] (replace with your actual support email)
+  brandon.xia1@gmail.com
 - **App Store Support:**  
   Use the “Report a Problem” feature where you downloaded the app.
 
