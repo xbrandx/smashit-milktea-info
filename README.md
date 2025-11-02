@@ -1,17 +1,17 @@
-# Smash the Milktea - App Privacy & Support
+# SmashIt: Milktea - App Privacy & Support
 
 ## App Privacy Policy
 
-Thank you for playing Smash the Milktea! Your privacy is very important to us.
+Thank you for playing SmashIt: Milktea! Your privacy is very important to us.
 
 ### Data Collection
 
 - **No Personal Data Collected:**  
-  Smash the Milktea does not collect, store, or process any personally identifiable information (PII) from its users.
+  SmashIt: Milktea does not collect, store, or process any personally identifiable information (PII) from its users.
 - **No Third-Party Trackers:**  
   The game does not use third-party analytics, advertising services, or any external trackers.
 - **No Account Required:**  
-  You can play Smash the Milktea without creating an account or logging in.
+  You can play SmashIt: Milktea without creating an account or logging in.
 
 ### Device and Usage Data
 
@@ -50,7 +50,7 @@ If you require support or encounter issues, please use the following channels:
 ### FAQ
 
 1. **Does the game collect any data?**  
-   No, Smash the Milktea does not collect any personal data or usage analytics.
+   No, SmashIt: Milktea does not collect any personal data or usage analytics.
 2. **Will my game progress sync across devices?**  
    Currently, progress is stored only on your local device.
 3. **How do I provide feedback?**  
