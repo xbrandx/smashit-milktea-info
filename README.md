@@ -28,7 +28,7 @@ _Last updated: November 2, 2025_
 
 ## Support Information
 
-Thank you for downloading and playing Smash the Milktea!
+Thank you for downloading and playing SmashIt: Milktea!
 If you require support or encounter issues, please use the following channels:
 
 ### Contact
@@ -58,4 +58,4 @@ If you require support or encounter issues, please use the following channels:
 
 ---
 
-_Thank you for your support and for enjoying Smash the Milktea!_
+_Thank you for your support and for enjoying SmashIt: Milktea!_
